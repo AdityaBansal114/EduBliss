@@ -6,7 +6,7 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { ChapterTitleForm } from "./_components/chapter-title-form";
 import { ChapterDescriptionForm } from "./_components/chapter-decription-form";
-import { ChapterAccessForm } from "./_components/chapter-access-form copy";
+import { ChapterAccessForm } from "./_components/chapter-access-form";
 import { ChaptervideoForm } from "./_components/chapter-video-form";
 import { Banner } from "@/components/banner";
 import { ChapterActions } from "./_components/chapter-actions";
